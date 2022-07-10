@@ -10,6 +10,23 @@ package ru.calculator;
 -Xlog:gc=debug:file=./logs/gc-%p-%t.log:tags,uptime,time,level:filecount=5,filesize=10m
 */
 
+/*Integer*/
+/*256m  spend msec:10579, sec:10 */
+/*512m   spend msec:11114, sec:11*/
+/*1024m  spend msec:10814, sec:10*/
+/*2048m  spend msec:10881, sec:10*/
+
+/*Int*/
+/*256m  spend msec:1724, sec:1*/
+/*512m   spend msec:1696, sec:1*/
+/*1024m  spend msec:1706, sec:1*/
+/*2048m  spend msec:1723, sec:1*/
+
+/*Winner
+* Integer 256 
+* Int 512
+*/
+
 
 import java.time.LocalDateTime;
 
