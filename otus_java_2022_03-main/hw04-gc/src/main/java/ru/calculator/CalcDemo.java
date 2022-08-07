@@ -23,7 +23,7 @@ package ru.calculator;
 /*2048m  spend msec:1723, sec:1*/
 
 /*Winner
-* Integer 256 
+* Integer 256
 * Int 512
 */
 
